@@ -71,7 +71,7 @@ Version_3.0
 
 -** Todos los integrantes estuvimos al principio de el proyecto a exepción del compañero Luis que se unio en este ciclo.
 * **Kevin Campos ** - ** - *Scrum Master**
-* **Dember Cruz ** - ** - *Product Onner **
+* **Dember Cruz ** - ** - *Product Onner**
 * **Nahun Merlos ** - ** - *Desarrollador** 
 * **Walter Lopez ** - ** - *Desarrollador** 
 * **Luis Gomez ** - ** - *Desarrollador**
