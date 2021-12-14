@@ -16,7 +16,7 @@ Para tener una copia y visualizarlo o mejorarlo:
 
 - Se utilizaria un lector de código (sublime text, visual code)
 
-- Para hacer las pruebas se necesitaria un sevidor (xampp, usvwebserver)
+- Para hacer las pruebas se necesitaria un sevidor (xampp, usbwebserver)
 
 ### Pre-requisitos 📋
 
@@ -50,7 +50,7 @@ tenemos que haber realizado un registro en nuestra base de datos y verificar si 
 
 - Se tiene que utilizar un lector de código (sublime text, visual code)
 
-- Para hacer las pruebas se necesitaria un sevidor (xampp, usvwebserver)
+- Para hacer las pruebas se necesitaria un sevidor (xampp, usbwebserver)
  
 ## Construido con 🛠️
 
